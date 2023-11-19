@@ -5,18 +5,19 @@ A dungeon scene with puzzle solving components and a hidden chamber. I created t
 * Building a custom scene using premade mesh tiles and props
 * Managing lighting in a dark space
 * Implementing a "grab object" mechanic
-   * Using 
+   * Using the PhysicsHandle component
+   * Using and DrawDebugSphere to visualize the trace in development
 * Using Trigger components
 
 # Screenshots
 <div align="center">
    <figure>
-      <img src="https://github.com/Jioey/CryptRaider/blob/main/CryptRaiderScreenshot1.png">
+      <img src="https://github.com/Jioey/CryptRaider/blob/master/CryptRaiderScreenshot1.png">
       <figcaption>Dungeon Interior</figcaption>
    </figure>
    
    <figure>
-      <img src="https://github.com/Jioey/CryptRaider/blob/main/CryptRaiderScreenshot2.png">
+      <img src="https://github.com/Jioey/CryptRaider/blob/master/CryptRaiderScreenshot2.png">
       <figcaption>Secret Room</figcaption>
    </figure>
 </div>
